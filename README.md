@@ -1,8 +1,7 @@
-# PUBGM-
-无需越狱辅助iOS
-QQ：350722326
-群号：663241263
-论坛：iosgods.cn
+
+
+论坛：https://iosgods.cn/
+
 # 生产步骤
 
 1.下载到mac
