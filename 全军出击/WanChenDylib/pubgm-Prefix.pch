@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'WanChenDylib' target in the 'WanChenDylib' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
